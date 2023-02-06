@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aliencyy&label=Profile%20views&color=0e75b6&style=flat" alt="aliencyy" /> </p>
 
-- 🌱 I’m currently learning **programmer language**
+- 🌱 I’m currently learning **Bootstrap**
 
 - 📫 How to reach me **kelsyamirah62@gmail.com**
 
