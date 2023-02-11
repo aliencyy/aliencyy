@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kelsy Amirah</h1>
 <h3 align="center">Undergraduate Informatics Science Student</h3>
-<script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
-<lottie-player src="https://assets8.lottiefiles.com/packages/lf20_T4XJOLEPj5.json"  background="transparent"  speed="1"  style="width: 300px; height: 300px;"  loop controls autoplay></lottie-player>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aliencyy&label=Profile%20views&color=0e75b6&style=flat" alt="aliencyy" /> </p>
 
