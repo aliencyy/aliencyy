@@ -7,17 +7,6 @@
 
 - 📫 How to reach me **kelsyamirah62@gmail.com**
 
-<lottie-player
-            src="https://assets5.lottiefiles.com/private_files/lf30_fjln45y5.json"
-            class="animation"
-            background="transparent"
-            speed="1"
-            loop
-            autoplay
-            style="width: 250px;"
-        ></lottie-player>
-        <script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/kelsyamirah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kelsy amirah" height="30" width="40" /></a>
