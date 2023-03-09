@@ -3,9 +3,20 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aliencyy&label=Profile%20views&color=0e75b6&style=flat" alt="aliencyy" /> </p>
 
-- 🌱 I’m currently learning **Bootstrap**
+- 🌱 I’m currently learning **Bootstrap and Laravel**
 
 - 📫 How to reach me **kelsyamirah62@gmail.com**
+
+<lottie-player
+            src="https://assets5.lottiefiles.com/private_files/lf30_fjln45y5.json"
+            class="animation"
+            background="transparent"
+            speed="1"
+            loop
+            autoplay
+            style="width: 250px;"
+        ></lottie-player>
+        <script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
