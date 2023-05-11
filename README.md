@@ -2,7 +2,7 @@
 <h3 align="center">Undergraduate Informatics Science Student</h3>
 
 # 💫 About Me:
-🌱 I’m currently learning <strong>Tailwind</strong> and <strong>Laravel</strong><br>📫 How to reach me kelsyamirah62@gmail.com
+👀 I’m interested in <strong>Web Development</strong><br>🌱 I’m currently learning <strong>Tailwind</strong> and <strong>Laravel</strong><br>📫 How to reach me kelsyamirah62@gmail.com
 
 
 ## 🌐 Socials:
